@@ -14,16 +14,17 @@
       <hr />
           <form>
            <label>INPUT_1</label><br />
-           <input type="text" id="value1" /><br /><br />
-           <label>INPUT_2</label><br />
-           <input type="text" id="value2" /><br /><br />
-           <label>Operation</label><br />
-           <select id="operator">
-              <option value="add">Addition</option>
-              <option value="min">Substract</option>
-              <option value="div">Division</option>
-              <option value="mul">Mutlply</option>
+               <input type="text" id="value1" /><br /><br />
+                <label>INPUT_2</label><br />
+                   <input type="text" id="value2" /><br /><br />
+                      <label>Operation</label><br />
+              <select id="operator">
+                       <option value="add">Addition</option>
+                       <option value="min">Substract</option>
+                       <option value="div">Division</option>
+                       <option value="mul">Mutlply</option>
            </select><br /><br />
+           
            <button type="button" onclick="calc()">Calculate</button>
 
           </form>
