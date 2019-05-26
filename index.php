@@ -28,6 +28,7 @@
            <button type="button" onclick="calc()">Calculate</button>
 
           </form>
+          <p id="copyr"> Copyright@Ekweme_Franklin_Okenna_2019</p>
        </div>
        <div id="box2">
        <p id="demo1"> ANSWER</p> <p id="demo"></p>
